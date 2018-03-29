@@ -1,0 +1,74 @@
+@media (max-width: 767px) {
+    .slider .carousel-inner h1 {
+        font-size: 35px;
+       text-align: center
+    }
+.upper-bar .info {
+    text-align: center
+}
+    .upper-bar .info1 {
+    text-align: center
+}
+    .featured-work ul li {
+ 
+}
+    .pricing-table  .corporate {
+    position: relative;
+    top: 0px
+}
+
+.contact h3 {
+    text-align: center
+    
+}
+.contact button {
+   text-align: center;
+   margin: auto;
+    display: block;
+    margin-top: 10px
+}
+    
+/*         start footer   */
+.footer {
+    padding: 35px 0;
+    
+}
+.footer .info h2 {
+    font-size: 50px;
+    
+}
+.footer .info h2 span:first-child {
+    
+     font-weight: 850;
+    animation: c 3s infinite;
+}
+.footer .info h2 span:last-child {
+      font-weight: 450;
+        animation: c2 3s infinite;
+}
+.footer .info p {
+    margin-top: 25px;
+    margin-bottom: 1rem;
+    color: #9a9999;
+    line-height: 1.8;
+}
+
+.footer .our-links h2, .footer .contact-us h2 {
+    margin-bottom: 20px;
+    margin-top: 15px
+    
+}
+
+.footer .contact-us ul li {
+    margin-bottom: 10px
+}
+/*           end footer   */
+    /*         start copy */
+.copy ul li {
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+/* end copy */
+}
